@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_payment GW</name>
+   <tag></tag>
+   <elementGuidId>2c8d7f25-2c9a-44d8-8232-9f7a3d42db54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo.mCS_img_loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>74bf5318-96ad-4819-912f-093aa5a5c005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo mCS_img_loaded</value>
+      <webElementGuid>584f53ec-5131-4435-9596-d1cdcd3f9239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/logo_PG_white.svg</value>
+      <webElementGuid>f9bdb14e-c66c-4529-aafc-69d84d354917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;sidebar-header&quot;]/div[@class=&quot;kartu&quot;]/img[@class=&quot;logo mCS_img_loaded&quot;]</value>
+      <webElementGuid>67237ef0-988d-4ef0-8ecb-692b1c88a61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Login/frame_logo payment GW</value>
+      <webElementGuid>72897a6f-ec2a-4b43-8a44-7a3060380645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div/img</value>
+      <webElementGuid>440220e1-8099-4c4f-9300-6bcb75bf0bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>ba8f64ea-4791-4a7a-93a4-bfb16a5dd596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/logo_PG_white.svg']</value>
+      <webElementGuid>cc557fcf-b49a-4b2d-8c85-ae43708969aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

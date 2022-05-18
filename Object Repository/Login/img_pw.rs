@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_pw</name>
+   <tag></tag>
+   <elementGuidId>67dc748e-14b9-48bb-9177-b04122c0123f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='logo']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.text-xs-center > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>93dbf0e6-09d4-43f5-be7e-e98328eb80b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/pg-logo.svg</value>
+      <webElementGuid>9f604c81-bcca-48ac-8d08-c5128721834f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logo&quot;)/div[@class=&quot;col-md-6 text-xs-center&quot;]/img[1]</value>
+      <webElementGuid>2b104825-1ccd-4af9-8d60-99218423905c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='logo']/div/img</value>
+      <webElementGuid>f6b7e198-708c-4540-a543-82f4389efea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>ecbf2e91-bc7a-4e4b-bfae-94a9543a613b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/pg-logo.svg']</value>
+      <webElementGuid>0c142032-7b18-4798-aca4-d77746550364</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

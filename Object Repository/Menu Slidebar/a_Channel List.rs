@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Channel List</name>
+   <tag></tag>
+   <elementGuidId>59c63d10-61ba-4826-a354-5049e9fe657e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-3001']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-3001 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c98f805d-7fe6-4049-8825-0cfb6b751981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant-ss-app/en/channellist</value>
+      <webElementGuid>fab74678-6d53-48e8-9117-018cbb17f666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Channel List</value>
+      <webElementGuid>2b1975a1-c8f2-431e-a290-be5342bbeb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-3001&quot;)/a[1]</value>
+      <webElementGuid>80c9453f-c989-4579-83df-a58b97416443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu Slidebar/frame_channel list</value>
+      <webElementGuid>3ab2268d-9482-43fe-bb52-3dbc428b143b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-3001']/a</value>
+      <webElementGuid>05b95f5e-83a0-4dc6-8f8b-5c7cea051f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Channel List')]</value>
+      <webElementGuid>683b60bd-05d9-40cc-bfca-1c277a4afc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channels'])[1]/following::a[1]</value>
+      <webElementGuid>a303c857-5630-48d8-be56-3ee7555662f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::a[1]</value>
+      <webElementGuid>76b2abca-ad17-48a0-a948-975cb2b9388c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant-ss-app/en/channellist')]</value>
+      <webElementGuid>9fb0b919-c64a-48b3-bd9c-d5d3b6660509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>c68cf524-b264-47ec-9026-71720ae1b48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant-ss-app/en/channellist' and (text() = ' Channel List' or . = ' Channel List')]</value>
+      <webElementGuid>06911be2-22b2-451a-9f51-17e5ff1ed741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

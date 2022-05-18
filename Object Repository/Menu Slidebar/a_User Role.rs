@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Role</name>
+   <tag></tag>
+   <elementGuidId>5bff01ed-f947-4847-be7d-b849cc615fde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-5003']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-5003 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2829e025-c43e-440a-b19a-15eda544d17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant-ss-app/en/userrolemgmt</value>
+      <webElementGuid>02a795e2-3ada-4177-90a1-eede54a8c426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> User Role</value>
+      <webElementGuid>fb3dd2fd-033d-40ba-a5fc-09a436abcb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-5003&quot;)/a[1]</value>
+      <webElementGuid>71ba7d3b-0ec0-4d09-ad70-52eabb998d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu Slidebar/frame_user role</value>
+      <webElementGuid>edc92e3c-2f89-4517-962e-264d1c287768</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-5003']/a</value>
+      <webElementGuid>87bd3d37-bb62-4209-ab0d-18ebc1662e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'User Role')]</value>
+      <webElementGuid>58431a5f-87f0-4136-95f6-7cea4c9a2117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files'])[1]/preceding::a[1]</value>
+      <webElementGuid>8872634c-8bc7-482f-9e06-54cb8f5c06ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant-ss-app/en/userrolemgmt')]</value>
+      <webElementGuid>8ade84e4-d56d-48e0-8cda-4f1c8ac03e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/a</value>
+      <webElementGuid>eadb732e-57d1-407e-bf30-69727286b489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant-ss-app/en/userrolemgmt' and (text() = ' User Role' or . = ' User Role')]</value>
+      <webElementGuid>9e87b416-1ece-4343-a922-2c37c3ba94d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

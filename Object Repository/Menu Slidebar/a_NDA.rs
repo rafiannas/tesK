@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NDA</name>
+   <tag></tag>
+   <elementGuidId>2a5330de-54fe-4aaf-b062-26e62f7721ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-6002']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-6002 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7f1aa01-1969-4836-b419-24679219c6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant-ss-app/en/uploadnda</value>
+      <webElementGuid>0c895f11-f4fe-489b-9447-09f8faeddec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> NDA</value>
+      <webElementGuid>17317cdd-c99f-4212-b762-c6a9c561415e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-6002&quot;)/a[1]</value>
+      <webElementGuid>01a66d55-43aa-4008-b132-a587e36fa032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu Slidebar/frame_nda</value>
+      <webElementGuid>c15bebea-a45a-4ad7-b04d-40004c1004ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-6002']/a</value>
+      <webElementGuid>6a030723-d19e-4b8d-a962-434c82dd3dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'NDA')]</value>
+      <webElementGuid>3f0cfa0d-a89c-4240-a4aa-d21f34230e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files'])[1]/following::a[2]</value>
+      <webElementGuid>5fe751ac-d22d-4866-ad58-356eef426e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant-ss-app/en/uploadnda')]</value>
+      <webElementGuid>59ccbaeb-e25a-4bc4-80a8-70011058b739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]/a</value>
+      <webElementGuid>902b864a-ba5b-4d06-bc54-7da18187bfde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant-ss-app/en/uploadnda' and (text() = ' NDA' or . = ' NDA')]</value>
+      <webElementGuid>55dff198-47d2-4058-8564-0da7133b764e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

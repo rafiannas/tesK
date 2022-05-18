@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Addendum</name>
+   <tag></tag>
+   <elementGuidId>27fcad84-30b6-48aa-a5a9-3bc2f97e3210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-6003']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-6003 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d4e056f-bc42-4d09-9cab-491497544cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant-ss-app/en/uploadaddendum</value>
+      <webElementGuid>5ed3ac08-78ce-45d5-8807-e41760f4fcf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Addendum</value>
+      <webElementGuid>4cdd251a-fb49-4026-936e-751f5f897f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-6003&quot;)/a[1]</value>
+      <webElementGuid>faaab8f5-4392-4835-9d98-6620d4caf014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu Slidebar/frame_addendum</value>
+      <webElementGuid>6ad01548-4cac-4c1e-9cf5-32873d2e2477</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-6003']/a</value>
+      <webElementGuid>7c2d5a5d-ba76-48b0-b2f7-237ef6ec0812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Addendum')]</value>
+      <webElementGuid>66616112-e884-44d6-b638-2f0e51ceea1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[2]</value>
+      <webElementGuid>9839dd3c-cace-4112-ba35-b851a852b3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant-ss-app/en/uploadaddendum')]</value>
+      <webElementGuid>75944ccf-c246-4039-bc77-fe392c96cdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[3]/a</value>
+      <webElementGuid>5fe60cb0-2102-4b83-b334-5865d591bf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant-ss-app/en/uploadaddendum' and (text() = ' Addendum' or . = ' Addendum')]</value>
+      <webElementGuid>b67f19a1-380e-4416-8278-8d94d72e5f92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

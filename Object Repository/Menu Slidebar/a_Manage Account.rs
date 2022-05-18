@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Account</name>
+   <tag></tag>
+   <elementGuidId>7d85c6ff-9791-48b5-982a-2d267b12e7a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-5002']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-5002 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb3ec183-b0c9-4ec3-96e9-8247092f312e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchant-ss-app/en/manageaccount</value>
+      <webElementGuid>1e457cc3-ce4d-4f6c-a983-5d737821d126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manage Account</value>
+      <webElementGuid>df7e3223-e1b4-403d-908e-6df267b7bed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-5002&quot;)/a[1]</value>
+      <webElementGuid>c346d2e7-bdeb-4962-84e8-4fabc5c324b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu Slidebar/frame_manage account</value>
+      <webElementGuid>d2c81a80-980a-4d3a-ac85-bd99cd6d864c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-5002']/a</value>
+      <webElementGuid>3b4b7a17-2b99-452f-aaac-49cb52668cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Account')]</value>
+      <webElementGuid>fe17a6d2-7d60-4bde-97b8-8bd77da60d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[2]</value>
+      <webElementGuid>d8128ab5-544b-4fd5-8d3d-ca08da8aeaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files'])[1]/preceding::a[2]</value>
+      <webElementGuid>a8abe9dd-fdfd-4870-a64b-a58640db2a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/merchant-ss-app/en/manageaccount')]</value>
+      <webElementGuid>c818620f-b45b-45b8-9261-4d7e87e009c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[2]/a</value>
+      <webElementGuid>d0a2d2d8-7339-4a0f-9201-659a6e6a1330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/merchant-ss-app/en/manageaccount' and (text() = ' Manage Account' or . = ' Manage Account')]</value>
+      <webElementGuid>d095935d-f567-47af-b361-532a4b080309</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_e2pay</name>
+   <tag></tag>
+   <elementGuidId>d9bf58de-1a6d-43d9-a812-e1984ef78745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='epay-logo']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.float-sm-right > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>44f77cc2-ff88-41a7-a503-dc00d8bd2630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/e2pay-logo.svg</value>
+      <webElementGuid>95787ecb-7829-42b5-b9d3-704889513b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;epay-logo&quot;)/div[@class=&quot;float-sm-right&quot;]/img[1]</value>
+      <webElementGuid>e7ed6a70-8d4e-4025-85f9-98b68dc458cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='epay-logo']/div/img</value>
+      <webElementGuid>b9cf4fdc-820d-4b77-9c3a-16675273bd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>fdc8330f-ec7b-463c-80d5-1c893a54a891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/e2pay-logo.svg']</value>
+      <webElementGuid>e6cc7c33-d595-425b-b5c6-ee111409136d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

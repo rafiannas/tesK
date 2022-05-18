@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_logo e2pay homepage</name>
+   <tag></tag>
+   <elementGuidId>2c39541d-c47e-453b-b8f5-376df4ca41ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/nav/div/div[2]/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.navbar-collapse.float-md-right > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>59ead41c-6a37-4335-801c-d92ac393c066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/e2pay-logo.svg</value>
+      <webElementGuid>47590a4e-409b-4c7a-af72-dd2601a4af0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;kepala&quot;]/nav[@class=&quot;navbar navbar-expand-lg my-nav&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col&quot;]/span[@class=&quot;navbar-collapse float-md-right&quot;]/img[1]</value>
+      <webElementGuid>53c1424f-6673-45c1-a4f5-8da6ad4f295f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Login/frame_logo e2pay</value>
+      <webElementGuid>07e42f16-9c13-40eb-a3fa-ffbf752b7c2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/nav/div/div[2]/span/img</value>
+      <webElementGuid>f536d79f-5a33-4f48-ba4c-097bc4b1086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>5d7fbb30-558a-40a7-9e86-9a8bc593e841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/e2pay-logo.svg']</value>
+      <webElementGuid>dfc4dd8f-37ee-4690-97e4-f3b75cf10f41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

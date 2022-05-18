@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Admin portal_logo mCS_img_loaded</name>
+   <tag></tag>
+   <elementGuidId>bb35fc78-9a17-45b3-9e0b-235b9cce4d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo.mCS_img_loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>eeaf3aa3-834d-4de3-93e3-3b11d8873f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo mCS_img_loaded</value>
+      <webElementGuid>3f770337-8b24-4799-a57a-41d30fdbad2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/logo_PG_white.svg</value>
+      <webElementGuid>232f6dce-17b4-41e1-8b85-727358120257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;sidebar-header&quot;]/div[@class=&quot;kartu&quot;]/img[@class=&quot;logo mCS_img_loaded&quot;]</value>
+      <webElementGuid>2547330c-6e7a-4304-874f-5ce6ebdaec31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Kotak Profil/payment GW</value>
+      <webElementGuid>bd16be32-df29-4769-a894-406ebd292a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div/img</value>
+      <webElementGuid>180d4eff-9a09-4125-ab2b-18f347e4cdf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>3461010b-d9b9-42a6-b27a-e80ce379362f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/logo_PG_white.svg']</value>
+      <webElementGuid>cb0b3284-98ee-4d2e-b745-737fbac9dcba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

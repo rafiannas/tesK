@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logout</name>
+   <tag></tag>
+   <elementGuidId>206b3454-e401-4b92-899b-cf48c60035c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div/div/a[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.kanan > img.side-icon.mCS_img_loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>23e176f1-8d99-41d2-802a-3c8f643f085f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/smerchantss/assets/images/ico_power-on-buton.svg</value>
+      <webElementGuid>d0131818-3379-4687-ba1f-10582ff66ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-icon mCS_img_loaded</value>
+      <webElementGuid>78328783-834b-4f33-9d02-76387c2282f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;sidebar-header&quot;]/div[@class=&quot;kartu&quot;]/div[@class=&quot;tombol&quot;]/a[@class=&quot;kanan&quot;]/img[@class=&quot;side-icon mCS_img_loaded&quot;]</value>
+      <webElementGuid>145fcb23-37f7-44e0-af24-d79b0556aca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Login/frame_logout</value>
+      <webElementGuid>5c12ae61-38a1-4535-a9d5-5da08bc1adae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div/div/a[3]/img</value>
+      <webElementGuid>9466f53c-2a9d-4507-a904-d841c143fa25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>5145a334-a3d1-44d3-9360-42eb3429973f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/smerchantss/assets/images/ico_power-on-buton.svg']</value>
+      <webElementGuid>c7ba2f94-ebe7-447d-b20f-e456ddd7e925</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
