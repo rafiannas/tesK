@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Google tersedia dalam bahasa  English        Basa Bali</name>
+   <tag></tag>
+   <elementGuidId>ae6f3386-15c6-4113-8761-81d91ba34bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SIvCob']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SIvCob</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b1431e1-f0d1-4051-b064-b90cfd49c564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SIvCob</value>
+      <webElementGuid>c0b33c76-e3eb-4ae7-b77e-76f99bcf932e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Google tersedia dalam bahasa:  English        Basa Bali  </value>
+      <webElementGuid>ca74c96a-2c6b-448b-8c46-9315b431aff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SIvCob&quot;)</value>
+      <webElementGuid>5c3bdf08-11ca-490f-9fe4-bb6ea4ffae91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='SIvCob']</value>
+      <webElementGuid>a4612a22-7a52-47e4-b2de-e5251ad7c243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gws-output-pages-elements-homepage_additional_languages__als']/div</value>
+      <webElementGuid>2f3703b5-7614-4c3b-91bc-f35a27b06d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/following::div[10]</value>
+      <webElementGuid>dbe612bc-c0e4-4fe1-a6da-be8c5d254e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[39]</value>
+      <webElementGuid>8c78aed8-2fc3-402c-b961-1b0b4b00fb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Google tersedia dalam bahasa:']/parent::*</value>
+      <webElementGuid>d2a48d75-c917-48f1-ae79-f0bfd75e8c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>fa8621a8-8ea4-40bf-9309-891958ed1940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'SIvCob' and (text() = 'Google tersedia dalam bahasa:  English        Basa Bali  ' or . = 'Google tersedia dalam bahasa:  English        Basa Bali  ')]</value>
+      <webElementGuid>555cffca-e018-4c36-8f96-cbc2bdd98246</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

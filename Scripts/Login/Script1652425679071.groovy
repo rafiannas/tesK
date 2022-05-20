@@ -21,9 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://nmstest.e2pay.co.id/merchant-ss-app/en/loginpage')
 
+WebUI.verifyTextPresent('Forgot password ?', false)
+
 WebUI.setText(findTestObject('Login/input_email'), 'auto@mail.com')
 
 WebUI.setText(findTestObject('Login/input_password'), 'Admin321')
 
 WebUI.click(findTestObject('Login/btn_login'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Menu Slidebar/a_Merchants'))
+
+WebUI.click(findTestObject('Menu Slidebar/a_Add New Merchant'))
+
+WebUI.verifyElementText(findTestObject('menu ex/h5_Add New Company'), 'Add New Merchant')
 

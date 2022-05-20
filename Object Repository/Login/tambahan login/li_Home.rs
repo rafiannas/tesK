@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Home</name>
+   <tag></tag>
+   <elementGuidId>b4b2aaf3-8756-4bbf-a39a-d769a51f5d5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/nav/div/div/ol/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.breadcrumb-item.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cd87c303-ea20-49f2-9846-6434309a42cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>88c8e690-f8f0-4dcb-89d9-5413798ee0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb-item active</value>
+      <webElementGuid>6a57f5a1-c2ca-44ef-80f4-7650dff0dd17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>b12a01e7-39a1-4b3e-9b21-98cdfd5848b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;kepala&quot;]/nav[@class=&quot;navbar navbar-expand-lg my-nav&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/ol[@class=&quot;breadcrumb my-breadcumb&quot;]/li[@class=&quot;breadcrumb-item active&quot;]</value>
+      <webElementGuid>606913bb-b7c1-4ff7-8d73-f53859c420a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Login/tambahan login/frame_text home</value>
+      <webElementGuid>a8a33e15-7054-490a-a4a1-0fc25f4f181e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/nav/div/div/ol/li</value>
+      <webElementGuid>25e3b4b7-5945-4ba5-894e-5209e198d9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Merchant'])[1]/preceding::li[1]</value>
+      <webElementGuid>9717bd38-7dcd-49e5-a270-831a8b3ddf65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Company'])[1]/preceding::li[1]</value>
+      <webElementGuid>4c85ed89-bd51-4691-87d0-bafd4774d0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li</value>
+      <webElementGuid>dddeeb01-bbb8-46ef-bdf3-0cf8311d5e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>ba894756-f421-4249-808e-fa83f8b0b9c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
